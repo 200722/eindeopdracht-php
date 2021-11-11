@@ -3,9 +3,9 @@ class Database
 {
     // Database instellingen
     private $host = "localhost";
-    private $db_name = "woord";
-    private $username = "root";
-    private $password = "";
+    private $db_name = "reem200722_bad";
+    private $username = "reem200722_bad";
+    private $password = "HX0beFdda";
     public $conn;
 
     public function __construct()
